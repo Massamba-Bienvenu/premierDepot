@@ -1,0 +1,1 @@
+Ce projet a pour objectif d'apprendre comment utiliser git.
